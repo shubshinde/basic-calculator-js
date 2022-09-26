@@ -1,7 +1,7 @@
 # basic-calculator-js
 
 ### Technologies: 
-- jQuery
+- Javascript
 - CSS
 
 
